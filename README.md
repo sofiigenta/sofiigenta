@@ -1,5 +1,5 @@
 ### Hi there 👋
-## <img height="40" src="https://www.gifsanimados.org/data/media/523/hola-imagen-animada-0008.gif"/> Links
+## <img height="40" src="https://www.gifsanimados.org/data/media/523/hola-imagen-animada-0008.gif"/> 
 
 <!--
 **sofiigenta/sofiigenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
